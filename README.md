@@ -133,12 +133,8 @@ rules:
 ## 👤 Author
 
 **Erkan Baran**  
-DevOps | Cloud Technologies  
-📧 erkan@example.com  
+DevOps | Cloud Technologies    
 🌐 erkanbaran.me
 
 ---
 
-## 📝 License
-
-MIT License – feel free to use and modify.
